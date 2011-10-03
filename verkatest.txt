@@ -1,1 +1,1 @@
-pokus test Bla bla Ahoj kluci, pokud nìkdo z vás náhodou koukne na tenhle soubor, tak to jen testuju Git.
+pokus test Bla bla Ahoj kluci, pokud nÄ›kdo z vÃ¡s nÃ¡hodou koukne na tenhle soubor, tak to jen testuju Git.
